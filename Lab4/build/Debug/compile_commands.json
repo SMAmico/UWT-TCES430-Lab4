@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug",
+  "command": "C:\\Users\\S\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F7XX -DSTM32F746xx -I\"D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\Lab4.dir\\Src\\syscall.c.obj -c \"D:\\OneDrive\\School\\UW\\TCES430 Microproc\\Lab4\\UWT-TCES430-Lab4\\Lab4\\Src\\syscall.c\"",
+  "file": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Src/syscall.c",
+  "output": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/Lab4.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug",
+  "command": "C:\\Users\\S\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F7XX -DSTM32F746xx -I\"D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\Lab4.dir\\Src\\sysmem.c.obj -c \"D:\\OneDrive\\School\\UW\\TCES430 Microproc\\Lab4\\UWT-TCES430-Lab4\\Lab4\\Src\\sysmem.c\"",
+  "file": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Src/sysmem.c",
+  "output": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/Lab4.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug",
+  "command": "C:\\Users\\S\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F7XX -DSTM32F746xx -I\"D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Inc\" -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\Lab4.dir\\Src\\main.c.obj -c \"D:\\OneDrive\\School\\UW\\TCES430 Microproc\\Lab4\\UWT-TCES430-Lab4\\Lab4\\Src\\main.c\"",
+  "file": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Src/main.c",
+  "output": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/Lab4.dir/Src/main.c.obj"
+},
+{
+  "directory": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug",
+  "command": "C:\\Users\\S\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F7XX -DSTM32F746xx -I\"D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Inc\" -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles\\Lab4.dir\\Src\\compare.s.obj -c \"D:\\OneDrive\\School\\UW\\TCES430 Microproc\\Lab4\\UWT-TCES430-Lab4\\Lab4\\Src\\compare.s\"",
+  "file": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Src/compare.s",
+  "output": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/Lab4.dir/Src/compare.s.obj"
+},
+{
+  "directory": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug",
+  "command": "C:\\Users\\S\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32F7XX -DSTM32F746xx -I\"D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Inc\" -mcpu=cortex-m7 -mfpu=fpv5-d16 -mfloat-abi=hard -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles\\Lab4.dir\\Src\\startup_stm32f746xx.S.obj -c \"D:\\OneDrive\\School\\UW\\TCES430 Microproc\\Lab4\\UWT-TCES430-Lab4\\Lab4\\Src\\startup_stm32f746xx.S\"",
+  "file": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/Src/startup_stm32f746xx.S",
+  "output": "D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/Lab4.dir/Src/startup_stm32f746xx.S.obj"
+}
+]

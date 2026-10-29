@@ -1,0 +1,3 @@
+D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/Lab4.dir
+D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/edit_cache.dir
+D:/OneDrive/School/UW/TCES430 Microproc/Lab4/UWT-TCES430-Lab4/Lab4/build/Debug/CMakeFiles/rebuild_cache.dir

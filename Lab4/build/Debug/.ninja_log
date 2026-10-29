@@ -1,0 +1,7 @@
+# ninja log v7
+237	1010	8149907567371271	CMakeFiles/Lab4.dir/Src/startup_stm32f746xx.S.obj	81c689e4a4ba9abf
+215	1019	8149907567151274	CMakeFiles/Lab4.dir/Src/sysmem.c.obj	ac78b8e4c2db6d65
+42	1277	8149907565421523	CMakeFiles/Lab4.dir/Src/syscall.c.obj	ff621fa4e81e2015
+40	424	8149954683661099	CMakeFiles/Lab4.dir/Src/main.c.obj	12190b00ec3dcff4
+43	384	8149976868726930	CMakeFiles/Lab4.dir/Src/compare.s.obj	eab7b48e685b43da
+389	826	8149976872177059	Lab4.elf	db9a0e9b724fca3
